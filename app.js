@@ -15,7 +15,7 @@
 
 'use strict';
 
-// [START gae_node_request_example]
+// [START gate_node_request_example]
 const express = require('express');
 
 const app = express();
